@@ -26,7 +26,7 @@ which the Deep Convolutional Generative Adversial Network was trained on were as
 <img width="274" height="376" alt="001_c04300ef" src="https://github.com/user-attachments/assets/fe43c9f6-546e-4dcb-87f5-06e7b3f3e859" />
 <img width="274" height="374" alt="012_8de7a736" src="https://github.com/user-attachments/assets/a3159a27-8f2c-49b1-8cf3-05e3befe8f93" />
 <img width="274" height="374" alt="086_8274c0d1" src="https://github.com/user-attachments/assets/e0920ab1-6bb7-431f-b94e-dbab45f096b4" />
-74" alt="049_31625c44" src="https://github.com/user-attachments/assets/49826599-8411-4d27-a0d9-aad24bdec028" />
+<img width="474" height="474" alt="049_31625c44" src="https://github.com/user-attachments/assets/fdc137a7-f91c-4fa0-ba81-834a1377efea" />
 <img width="274" height="374" alt="095_1104d364" src="https://github.com/user-attachments/assets/a5b4c8e9-8d32-4d84-9068-3110fd053d98" />
 
 
